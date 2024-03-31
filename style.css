@@ -5,5 +5,11 @@ body {
 /* Nav bar */
 
 #home {
-    background-color: #7600bc;
+    background-color: #b2b2b2;
+    padding-bottom: 15px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-top: -8px;
+    padding-top: 15px;
+    height: 40px;
 }
