@@ -5,7 +5,7 @@ body {
 /* Nav bar */
 
 #home {
-    background-color: #b2b2b2;
+    background-color: #000000;
     padding-bottom: 15px;
     margin-left: -8px;
     margin-right: -8px;
@@ -13,3 +13,40 @@ body {
     padding-top: 15px;
     height: 40px;
 }
+
+.topmenu {
+    color: whitesmoke;
+    margin: 15px;
+    padding: 20px;
+    font-size: 20px;
+    text-decoration:none;
+  }
+  
+  .topmenu:hover {
+    color: white;
+    font-weight: bolder;
+    /* Add the styles here */
+  }
+  
+  .topdiv {
+    float: right;
+    padding-right: 1cm;
+  }
+
+  .profile_name {
+    float: left;
+    padding-left: 2cm;
+    color: whitesmoke;
+    font-size:medium;
+    /* Add the styles here */
+  }
+  
+  .profile_name .contact_info {
+    font-size: 15px;
+    font-style: italic;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+  }
+
+  
