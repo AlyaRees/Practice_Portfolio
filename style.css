@@ -21,10 +21,11 @@ body {
   color: whitesmoke;
   text-decoration: none;
   padding: 15px;
-  width: 100px;
+  width:fit-content;
+  width:170px;
   display: flexbox;
   font-size: 15px;
-  justify-content: space-between;
+  justify-content:space-around;
 }
 
 .nav a:hover {
